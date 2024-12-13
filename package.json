@@ -1,7 +1,7 @@
 {
   "name": "evm-erc20-token-balance-api",
   "scripts": {
-    "start": "nodemon src/USDTBalance.js"
+    "start": "nodemon src/ERC20TokenBalanceAPI.js"
   },
   "devDependencies": {
     "dotenv": "^16.0.3",

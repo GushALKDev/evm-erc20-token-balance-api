@@ -67,7 +67,7 @@ Retrieves the balance of the configured ERC20 token (e.g., USDT) for a specified
 1. Clone the repository and navigate to the project directory.
 2. Install dependencies:
    ```bash
-   npm install
+   yarn
    ```
 3. Create a `.env` file in the root directory and configure the following environment variables:
    ```env
@@ -81,7 +81,7 @@ Retrieves the balance of the configured ERC20 token (e.g., USDT) for a specified
 Start the server locally with:
 
 ```bash
-node index.js
+yarn start
 ```
 
 This will start the API on port `3001` by default.
