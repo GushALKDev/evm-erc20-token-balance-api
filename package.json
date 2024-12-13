@@ -1,0 +1,14 @@
+{
+  "name": "evm-erc20-token-balance-api",
+  "scripts": {
+    "start": "nodemon src/USDTBalance.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
